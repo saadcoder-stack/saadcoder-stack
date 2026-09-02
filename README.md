@@ -77,9 +77,9 @@ Small projects and coding challenges created while learning JavaScript.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saadabdullah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=saadcoder-stack&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadabdullah&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadcoder-stack&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </p>
 
@@ -89,7 +89,7 @@ Small projects and coding challenges created while learning JavaScript.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=saadabdullah&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=saadcoder-stack&theme=tokyonight" alt="GitHub Streak" />
 
 </p>
 
@@ -98,18 +98,15 @@ Small projects and coding challenges created while learning JavaScript.
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/saadabdullah/saadabdullah/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-
+  <img src="https://raw.githubusercontent.com/saadcoder-stack/saadcoder-stack/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/saadabdullah">
+<a href="https://github.com/saadcoder-stack">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -119,7 +116,7 @@ Small projects and coding challenges created while learning JavaScript.
 
 ## 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=saadabdullah&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=saadcoder-stack&style=for-the-badge" alt="Profile Views" />
 
 ---
 
