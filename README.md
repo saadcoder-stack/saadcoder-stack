@@ -1,50 +1,132 @@
-# Hi 👋, I'm <Saad Abdullah>  
-### 🔭 I build things with JavaScript, React, and Node.js
+# Hi 👋, I'm Saad Abdullah
+
+### 💻 Web Developer | JavaScript & TypeScript Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+Saad+Abdullah;Web+Developer+in+Progress;Learning+JavaScript+%26+TypeScript;Building+Modern+Web+Projects" alt="Typing SVG" />
 
 ---
 
-## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **JavaScript & TypeScript**
+- 💻 Passionate about **Web Development**
+- 🎨 Interested in creating **modern & responsive websites**
+- 🚀 Building projects to improve my coding skills
+- 📚 Always learning new technologies
+- 🎯 Goal: Become a professional **Full-Stack Web Developer**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills & Technologies
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+### 🌐 Frontend
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+### ⚙️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 🌐 Connect With Me  
+## 📚 Currently Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sabdullahcrsc@gmail.com)
-
----
-
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+- JavaScript & ES6+
+- TypeScript
+- Responsive Web Design
+- Git & GitHub
+- React.js
+- Backend Development
+- APIs
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+## 🚀 My Goals
+
+- ✅ Learn modern Web Development
+- 🔥 Build real-world projects
+- ⚛️ Learn React.js
+- 🖥️ Learn Backend Development
+- 🌍 Become a Full-Stack Developer
+- 💼 Work with international clients
+- 🌟 Contribute to Open Source
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 Responsive Portfolio
+A modern and responsive personal portfolio website.
+
+### 🍽️ Restaurant Website
+A responsive restaurant website built to practice modern web design.
+
+### 🛒 E-commerce Website
+An e-commerce project focused on responsive UI and user experience.
+
+### ⚡ JavaScript Projects
+Small projects and coding challenges created while learning JavaScript.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saadabdullah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadabdullah&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=saadabdullah&theme=tokyonight" alt="GitHub Streak" />
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/saadabdullah/saadabdullah/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/saadabdullah">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=saadabdullah&style=for-the-badge" alt="Profile Views" />
+
+---
+
+<h3 align="center">
+  💙 Thanks for visiting my profile!
+</h3>
+
+<h4 align="center">
+  🚀 Keep Learning • Keep Building • Keep Growing
+</h4>
