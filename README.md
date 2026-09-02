@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bannersaad.png" width="100%" />
+  <img src="./banner-saad.png" width="100%" />
 </p>
 
 # Hi 👋, I'm Saad Abdullah
