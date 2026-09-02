@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="![Uploading banner-saad.png…]()
-" width="100%" />
+  <img src="https://raw.githubusercontent.com/saadcoder-stack/saadcoder-stack/main/bannersaad.png" width="100%" />
 </p>
-
 # Hi 👋, I'm Saad Abdullah
 
 ### 💻 Web Developer | JavaScript & TypeScript Learner
